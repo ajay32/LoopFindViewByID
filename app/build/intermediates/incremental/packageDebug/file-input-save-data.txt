@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Dec 29 10:41:23 PST 2017
+1.base=F\:\\AndroidP2\\BB\\LoopFindViewByID\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\AndroidP2\\BB\\LoopFindViewByID\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.file=F\:\\AndroidP2\\BB\\LoopFindViewByID\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=DEX
+2.base=F\:\\AndroidP2\\BB\\LoopFindViewByID\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=F\:\\AndroidP2\\BB\\LoopFindViewByID\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=F\:\\AndroidP2\\BB\\LoopFindViewByID\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=F\:\\AndroidP2\\BB\\LoopFindViewByID\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\AndroidP2\\BB\\LoopFindViewByID\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.file=F\:\\AndroidP2\\BB\\LoopFindViewByID\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=F\:\\AndroidP2\\BB\\LoopFindViewByID\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
